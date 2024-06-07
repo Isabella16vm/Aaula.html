@@ -1,0 +1,16 @@
+<html>
+
+<head>
+</head>
+
+<body>
+</body>
+
+</html>
+<title>utilizando tags de formataçao <title>
+<head>
+
+<body>
+</body>
+
+</html>
